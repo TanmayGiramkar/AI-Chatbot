@@ -105,7 +105,3 @@ Next (Optional Improvements):
 6.Analytics tracking
 7.Database integration (MongoDB / PostgreSQL)
 8.Custom domain
-
-UI animations
-
-Analytics tracking
